@@ -1,4 +1,4 @@
-# Task Instructions
+# a FastAP APP for enhancing google search prompt using chatGPT API and Google Search API hosted on AWS lambda 
 
 ## Run the Application:
 1. **Setup**: (Optionally) create a virtual environment and install `requirements.txt`, 
