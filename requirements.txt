@@ -1,0 +1,5 @@
+fastapi==0.95.1
+mangum==0.17.0
+openai==0.28
+google-api-python-client
+langchain
